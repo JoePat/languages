@@ -1,3 +1,4 @@
+new fact
 belongs to the Bantu language family
 spoken in South Africa
 word order: SVO
